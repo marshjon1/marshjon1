@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on ...  Just getting started for now....
+- 🔭 I’m currently working on ...  freecodecamp's Responsive Web Design Certification (And also the next one in their curriculum, Javascript Algorithms and Data Structures because I'm impatient)
 - 🌱 I’m currently learning ...  HTML/CSS/JS
 - 👯 I’m looking to collaborate on ...  My first project!  Any great mentors out there looking for a fantastic human pupil?
 - 🤔 I’m looking for help with ...  Getting started and meeting more of my fellow fleshy humans.
